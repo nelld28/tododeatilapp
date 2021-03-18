@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">todoDetail</string>
+    <string name="prev">prev</string>
+    <string name="next">next</string>
+    <string name="todos">todos</string>
+    <string name="detail">detail</string>
+    <string name="back_button_pressed">pressed</string>
+    <string name="request_code_mismatch">mismatch</string>
+    <string name="todo_list_view">Todo list!</string>
+    <string name="textViewTodoDetail">TextViewTodoDetail</string>
+    <string name="todo_complete">Todo Complete?</string>
+    <string name="textViewIntentData">Data from intent</string>
+    <string-array name="todos">
+        <item>Wake up</item>
+        <item>Drink Coffee</item>
+        <item>Make at least one person laugh</item>
+        <item>Plant a tree</item>
+        <item>Ponder on duality of existance</item>
+        <item>Go to sleep</item>
+    </string-array>
+</resources>
